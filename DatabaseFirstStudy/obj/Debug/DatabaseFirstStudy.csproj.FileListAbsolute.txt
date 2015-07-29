@@ -8,3 +8,12 @@ C:\Users\Ashu\Documents\Visual Studio 2013\Projects\ConsoleStudy\DatabaseFirstSt
 C:\Users\Ashu\Documents\Visual Studio 2013\Projects\ConsoleStudy\DatabaseFirstStudy\obj\Debug\DatabaseFirstStudy.csprojResolveAssemblyReference.cache
 C:\Users\Ashu\Documents\Visual Studio 2013\Projects\ConsoleStudy\DatabaseFirstStudy\obj\Debug\DatabaseFirstStudy.dll
 C:\Users\Ashu\Documents\Visual Studio 2013\Projects\ConsoleStudy\DatabaseFirstStudy\obj\Debug\DatabaseFirstStudy.pdb
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\DatabaseFirstStudy\bin\Debug\DatabaseFirstStudy.dll.config
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\DatabaseFirstStudy\bin\Debug\DatabaseFirstStudy.dll
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\DatabaseFirstStudy\bin\Debug\DatabaseFirstStudy.pdb
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\DatabaseFirstStudy\bin\Debug\EntityFramework.dll
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\DatabaseFirstStudy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\DatabaseFirstStudy\bin\Debug\EntityFramework.xml
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\DatabaseFirstStudy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\DatabaseFirstStudy\obj\Debug\DatabaseFirstStudy.dll
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\DatabaseFirstStudy\obj\Debug\DatabaseFirstStudy.pdb

@@ -1,0 +1,5 @@
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\ClientConsoleAppStudy\bin\Debug\ClientConsoleAppStudy.exe.config
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\ClientConsoleAppStudy\bin\Debug\ClientConsoleAppStudy.exe
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\ClientConsoleAppStudy\bin\Debug\ClientConsoleAppStudy.pdb
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\ClientConsoleAppStudy\obj\Debug\ClientConsoleAppStudy.exe
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\ClientConsoleAppStudy\obj\Debug\ClientConsoleAppStudy.pdb

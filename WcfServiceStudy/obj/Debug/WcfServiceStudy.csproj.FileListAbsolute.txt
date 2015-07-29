@@ -8,3 +8,13 @@ C:\Users\Ashu\Documents\Visual Studio 2013\Projects\ConsoleStudy\WcfServiceStudy
 C:\Users\Ashu\Documents\Visual Studio 2013\Projects\ConsoleStudy\WcfServiceStudy\obj\Debug\WcfServiceStudy.csprojResolveAssemblyReference.cache
 C:\Users\Ashu\Documents\Visual Studio 2013\Projects\ConsoleStudy\WcfServiceStudy\obj\Debug\WcfServiceStudy.dll
 C:\Users\Ashu\Documents\Visual Studio 2013\Projects\ConsoleStudy\WcfServiceStudy\obj\Debug\WcfServiceStudy.pdb
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\WcfServiceStudy\bin\WcfServiceStudy.dll.config
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\WcfServiceStudy\bin\WcfServiceStudy.dll
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\WcfServiceStudy\bin\WcfServiceStudy.pdb
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\WcfServiceStudy\bin\DatabaseFirstStudy.dll
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\WcfServiceStudy\bin\EntityFramework.dll
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\WcfServiceStudy\bin\DatabaseFirstStudy.pdb
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\WcfServiceStudy\bin\EntityFramework.xml
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\WcfServiceStudy\obj\Debug\WcfServiceStudy.csprojResolveAssemblyReference.cache
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\WcfServiceStudy\obj\Debug\WcfServiceStudy.dll
+C:\Users\Neelotpaul\Desktop\ConsoleStudy\WcfServiceStudy\obj\Debug\WcfServiceStudy.pdb
