@@ -8,3 +8,11 @@ C:\Users\Ashu\Documents\Visual Studio 2013\Projects\ConsoleStudy\DatabaseFirstSt
 C:\Users\Ashu\Documents\Visual Studio 2013\Projects\ConsoleStudy\DatabaseFirstStudy\obj\Debug\DatabaseFirstStudy.csprojResolveAssemblyReference.cache
 C:\Users\Ashu\Documents\Visual Studio 2013\Projects\ConsoleStudy\DatabaseFirstStudy\obj\Debug\DatabaseFirstStudy.dll
 C:\Users\Ashu\Documents\Visual Studio 2013\Projects\ConsoleStudy\DatabaseFirstStudy\obj\Debug\DatabaseFirstStudy.pdb
+D:\Git\ConsoleStudy\DatabaseFirstStudy\bin\Debug\DatabaseFirstStudy.dll.config
+D:\Git\ConsoleStudy\DatabaseFirstStudy\bin\Debug\DatabaseFirstStudy.dll
+D:\Git\ConsoleStudy\DatabaseFirstStudy\bin\Debug\DatabaseFirstStudy.pdb
+D:\Git\ConsoleStudy\DatabaseFirstStudy\bin\Debug\EntityFramework.xml
+D:\Git\ConsoleStudy\DatabaseFirstStudy\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\ConsoleStudy\DatabaseFirstStudy\obj\Debug\DatabaseFirstStudy.csprojResolveAssemblyReference.cache
+D:\Git\ConsoleStudy\DatabaseFirstStudy\obj\Debug\DatabaseFirstStudy.dll
+D:\Git\ConsoleStudy\DatabaseFirstStudy\obj\Debug\DatabaseFirstStudy.pdb
