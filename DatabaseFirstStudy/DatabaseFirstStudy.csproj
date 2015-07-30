@@ -48,7 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="DBoperation.cs" />
     <Compile Include="IDBoperations.cs" />
     <Compile Include="Info.cs">
       <DependentUpon>ModelStudentInfo.tt</DependentUpon>
@@ -89,7 +89,6 @@
       <DependentUpon>ModelStudentInfo.edmx</DependentUpon>
       <LastGenOutput>ModelStudentInfo.cs</LastGenOutput>
     </None>
-    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
